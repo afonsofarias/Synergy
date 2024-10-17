@@ -1,0 +1,14 @@
+body {
+  background-image: url('../assets/bg.png');
+  background-size: cover;
+  padding: 0;
+}
+
+header {
+  background-color: #0f0f0f;
+}
+
+.menu {
+  list-style-type: none;
+  display: flex;
+}
